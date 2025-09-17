@@ -12,7 +12,7 @@ The Xbox Prediction project is a machine learning application designed to predic
 1. **Clone the Repository**
    Clone this repository to your local machine using:
    ```
-   git clone https://github.com/MrGupa/Xbox_Prediction
+   git clone https://github.com/MrGupa/Xbox_Prediction.git
    ```
 
 2. **Create a Virtual Environment**
